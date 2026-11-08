@@ -46,7 +46,7 @@ I’m Regie Adhia R (EgyAdya), an informatics and digital-design hybrid. I build
 
 **Development:** `PHP` · `JavaScript` · `TypeScript` · `Python` · `Astro` · `Tailwind CSS` · `MySQL / MariaDB` · `C++` · `Git`
 
-**Creative:** `Photoshop` · `Illustrator` · `Premiere Pro` · `After Effects` · `Blockbench`
+**Creative:** `Photoshop` · `Illustrator` · `Premiere Pro` · `After Effects` · `Blockbench` · `Blender`
 
 ## Selected software projects
 
