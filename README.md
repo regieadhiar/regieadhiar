@@ -54,11 +54,14 @@ I’m Regie Adhia R (EgyAdya), an informatics and digital-design hybrid. I build
   <tr>
     <td width="50%" valign="top">
       <h3><a href="https://github.com/regieadhiar/foodrescue">FoodRescue</a></h3>
+      <p><img src="assets/project-screenshots/foodrescue-landing-local.png" alt="FoodRescue landing page captured from the local application" /></p>
+      <p><sub>Local capture from an empty test database; the counters show 0+.</sub></p>
       <p><strong>College coursework.</strong> I handled it end to end: research and documentation, analytics, UML, coding, and design. The project is a mobile-first platform for sharing surplus food.</p>
       <p><code>PHP</code> · <code>Tailwind CSS</code> · <code>JavaScript</code> · <code>MySQL</code></p>
     </td>
     <td width="50%" valign="top">
       <h3><a href="https://github.com/regieadhiar/restomaju">RestoMaju</a></h3>
+      <p><img src="assets/project-screenshots/restomaju-admin-dashboard.png" alt="RestoMaju admin dashboard" /></p>
       <p><strong>My role:</strong> front-end and back-end development for a restaurant ordering system with dedicated workflows for admins, waiters, kitchen staff, and cashiers.</p>
       <p><code>PHP</code> · <code>MariaDB</code> · <code>Tailwind CSS</code><br />
       <a href="https://resto.egyadya.site">Open the live demo →</a></p>
@@ -72,6 +75,16 @@ I’m Regie Adhia R (EgyAdya), an informatics and digital-design hybrid. I build
     </td>
   </tr>
 </table>
+
+<details>
+  <summary>RestoMaju gallery — waiter and cashier screens</summary>
+  <table>
+    <tr>
+      <td><img src="assets/project-screenshots/restomaju-waiter.png" alt="RestoMaju waiter ordering screen" /></td>
+      <td><img src="assets/project-screenshots/restomaju-cashier.png" alt="RestoMaju cashier checkout screen" /></td>
+    </tr>
+  </table>
+</details>
 
 ## Stream design & virtual identity
 
