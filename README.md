@@ -46,7 +46,7 @@ I’m Regie Adhia R (EgyAdya), an informatics and digital-design hybrid. I build
 
 **Development:** `PHP` · `JavaScript` · `TypeScript` · `Python` · `Astro` · `Tailwind CSS` · `MySQL / MariaDB` · `C++` · `Git`
 
-**Creative:** `Photoshop` · `Illustrator` · `Premiere Pro` · `After Effects` · `Blockbench` · `Blender`
+**Creative tools:** `Photoshop` · `Illustrator` · `Premiere Pro` · `After Effects` · `Blockbench` · `Blender (learning)`
 
 ## Selected software projects
 
@@ -54,12 +54,12 @@ I’m Regie Adhia R (EgyAdya), an informatics and digital-design hybrid. I build
   <tr>
     <td width="50%" valign="top">
       <h3><a href="https://github.com/regieadhiar/foodrescue">FoodRescue</a></h3>
-      <p>A mobile-first platform that helps merchants share surplus food with people who can rescue it.</p>
+      <p><strong>College coursework.</strong> I handled it end to end: research and documentation, analytics, UML, coding, and design. The project is a mobile-first platform for sharing surplus food.</p>
       <p><code>PHP</code> · <code>Tailwind CSS</code> · <code>JavaScript</code> · <code>MySQL</code></p>
     </td>
     <td width="50%" valign="top">
       <h3><a href="https://github.com/regieadhiar/restomaju">RestoMaju</a></h3>
-      <p>A restaurant ordering system with dedicated workflows for admins, waiters, kitchen staff, and cashiers.</p>
+      <p><strong>My role:</strong> front-end and back-end development for a restaurant ordering system with dedicated workflows for admins, waiters, kitchen staff, and cashiers.</p>
       <p><code>PHP</code> · <code>MariaDB</code> · <code>Tailwind CSS</code><br />
       <a href="https://resto.egyadya.site">Open the live demo →</a></p>
     </td>
@@ -77,6 +77,12 @@ I’m Regie Adhia R (EgyAdya), an informatics and digital-design hybrid. I build
 
 - **[Sakura StreamKit](https://egyadya.my.id/works/project-1)** — A Japanese-inspired stream overlay with starting, BRB, main, and ending screens, plus chat and customizable panels.
 - **[Outer Space StreamKit](https://egyadya.my.id/works/project-2)** — A cosmic-themed stream overlay concept with coordinated screens, panels, and chat boxes.
+
+## Creative commissions & other projects
+
+- **Past commissions:** Minecraft skins, digital art, and animation.
+- **Other projects:** a link-in-bio website and a Minecraft modpack for a VTuber.
+- **Blender:** I’ve just started exploring it and don’t have client work with it yet.
 
 ## GitHub analytics
 
