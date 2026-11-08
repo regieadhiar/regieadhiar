@@ -13,19 +13,46 @@
 
 ## About
 
-I like turning ideas into practical software—from responsive web apps to data-driven experiments. I’m currently learning **Astro**.
+I’m Regie Adhia R (EgyAdya), an informatics and digital-design hybrid. I build technical systems and create visual experiences for virtual creators, bringing software, design, and interactive content together.
 
-## Selected projects
+## CV snapshot
+
+<table>
+  <tr>
+    <td><strong>Focus</strong></td>
+    <td>Web development · stream design · virtual identity · content creation</td>
+  </tr>
+  <tr>
+    <td><strong>Experience</strong></td>
+    <td>3+ years · 4+ clients, as listed on my <a href="https://egyadya.my.id">portfolio</a></td>
+  </tr>
+  <tr>
+    <td><strong>Location</strong></td>
+    <td>Indonesia · WIB (UTC+7)</td>
+  </tr>
+  <tr>
+    <td><strong>Availability</strong></td>
+    <td>Available for freelance projects</td>
+  </tr>
+</table>
+
+## Skills & tools
+
+**Development:** `PHP` · `JavaScript` · `TypeScript` · `Python` · `Astro` · `Tailwind CSS` · `MySQL / MariaDB` · `C++` · `Git`
+
+**Creative:** `Photoshop` · `Illustrator` · `Premiere Pro` · `After Effects` · `Blockbench`
+
+## Selected software projects
 
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h3><a href="https://github.com/regieadhiar/foodrescue">01 / FoodRescue</a></h3>
+      <h3><a href="https://github.com/regieadhiar/foodrescue">FoodRescue</a></h3>
       <p>A mobile-first platform that helps merchants share surplus food with people who can rescue it.</p>
       <p><code>PHP</code> · <code>Tailwind CSS</code> · <code>JavaScript</code> · <code>MySQL</code></p>
     </td>
     <td width="50%" valign="top">
-      <h3><a href="https://github.com/regieadhiar/restomaju">02 / RestoMaju</a></h3>
+      <h3><a href="https://github.com/regieadhiar/restomaju">RestoMaju</a></h3>
       <p>A restaurant ordering system with dedicated workflows for admins, waiters, kitchen staff, and cashiers.</p>
       <p><code>PHP</code> · <code>MariaDB</code> · <code>Tailwind CSS</code><br />
       <a href="https://resto.egyadya.site">Open the live demo →</a></p>
@@ -33,25 +60,17 @@ I like turning ideas into practical software—from responsive web apps to data-
   </tr>
   <tr>
     <td colspan="2" valign="top">
-      <h3><a href="https://github.com/regieadhiar/prediksi-pembelian-ecommerce">03 / E-Commerce Purchase Prediction</a></h3>
+      <h3><a href="https://github.com/regieadhiar/prediksi-pembelian-ecommerce">E-Commerce Purchase Prediction</a></h3>
       <p>A Streamlit app that estimates purchase intent from online-shopping session data.</p>
       <p><code>Python</code> · <code>Streamlit</code> · <code>Gradient Boosting</code></p>
     </td>
   </tr>
 </table>
 
-## Tech stack
+## Stream design & virtual identity
 
-<p align="center">
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=222222" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/Astro-BC52EE?style=for-the-badge&logo=astro&logoColor=white" alt="Astro" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="Tailwind CSS" />
-  <img src="https://img.shields.io/badge/MySQL%20%2F%20MariaDB-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL and MariaDB" />
-  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++" />
-</p>
+- **[Sakura StreamKit](https://egyadya.my.id/works/project-1)** — A Japanese-inspired stream overlay with starting, BRB, main, and ending screens, plus chat and customizable panels.
+- **[Outer Space StreamKit](https://egyadya.my.id/works/project-2)** — A cosmic-themed stream overlay concept with coordinated screens, panels, and chat boxes.
 
 ## GitHub analytics
 
