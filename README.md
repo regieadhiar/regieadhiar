@@ -36,6 +36,12 @@ I’m Regie Adhia R (EgyAdya), an informatics and digital-design hybrid. I build
   </tr>
 </table>
 
+## Education & training
+
+- **Education:** Computer Science bachelor’s program, Year 3 (in progress) — Institut Teknologi Garut.
+- **MTCNA (MikroTik):** Expired.
+- **Course:** 3D modelling — Bisa AI.
+
 ## Skills & tools
 
 **Development:** `PHP` · `JavaScript` · `TypeScript` · `Python` · `Astro` · `Tailwind CSS` · `MySQL / MariaDB` · `C++` · `Git`
