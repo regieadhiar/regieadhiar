@@ -1,15 +1,101 @@
-# 💫 About Me:
-🌱 I’m currently learning Astro
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:0F766E,100:38BDF8&height=220&section=header&text=Regie%20Adhia%20R&fontSize=44&fontColor=F8FAFC&animation=fadeIn&fontAlignY=36&desc=WEB%20APPS%20%7C%20DATA%20%7C%20CREATIVE%20CODING&descAlignY=58&descSize=17" width="100%" alt="Animated midnight and teal wave banner with Regie Adhia R" />
+  <a href="https://egyadya.my.id">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=19&duration=2600&pause=900&color=5EEAD4&center=true&vCenter=true&width=720&height=40&lines=Building+useful+web+apps;Exploring+data+and+machine+learning;Currently+learning+Astro" alt="Animated text: Building useful web apps, exploring data and machine learning, currently learning Astro" />
+  </a>
+  <br />
+  <a href="https://egyadya.my.id"><img src="https://img.shields.io/badge/PORTFOLIO-Visit%20my%20site-0F766E?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Visit my portfolio" /></a>
+  <br /><br />
+  <img src="https://komarev.com/ghpvc/?username=regieadhiar&label=PROFILE%20VIEWS&color=0f766e&style=flat-square" alt="Profile views" />
+  <img src="https://img.shields.io/github/followers/regieadhiar?label=FOLLOWERS&style=flat-square&color=0f766e" alt="GitHub followers" />
+  <img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2Fregieadhiar&query=%24.public_repos&label=PUBLIC%20REPOS&style=flat-square&color=0f766e" alt="Public repositories" />
+</div>
 
+## About
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Lua](https://img.shields.io/badge/lua-%232C2D72.svg?style=for-the-badge&logo=lua&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Astro](https://img.shields.io/badge/astro-%232C2052.svg?style=for-the-badge&logo=astro&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Adobe Illustrator](https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white) ![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white) ![Adobe After Effects](https://img.shields.io/badge/Adobe%20After%20Effects-9999FF.svg?style=for-the-badge&logo=Adobe%20After%20Effects&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=regieadhiar&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://streak-stats.demolab.com/?user=regieadhiar&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=regieadhiar&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+I’m Regie Adhia R (EgyAdya), an informatics and digital-design hybrid. I build technical systems and create visual experiences for virtual creators, bringing software, design, and interactive content together.
 
----
-[![](https://komarev.com/ghpvc/?username=regieadhiar&icon=0&color=0)](https://visitcount.itsvg.in)
+## CV snapshot
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<table>
+  <tr>
+    <td><strong>Focus</strong></td>
+    <td>Web development · stream design · virtual identity · content creation</td>
+  </tr>
+  <tr>
+    <td><strong>Experience</strong></td>
+    <td>3+ years · 4+ clients, as listed on my <a href="https://egyadya.my.id">portfolio</a></td>
+  </tr>
+  <tr>
+    <td><strong>Location</strong></td>
+    <td>Indonesia · WIB (UTC+7)</td>
+  </tr>
+  <tr>
+    <td><strong>Availability</strong></td>
+    <td>Available for freelance projects</td>
+  </tr>
+</table>
+
+## Education & training
+
+- **Education:** Computer Science bachelor’s program, Year 3 (in progress) — Institut Teknologi Garut.
+- **MTCNA (MikroTik):** Expired.
+- **Course:** 3D modelling — Bisa AI.
+
+## Skills & tools
+
+**Development:** `PHP` · `JavaScript` · `TypeScript` · `Python` · `Astro` · `Tailwind CSS` · `MySQL / MariaDB` · `C++` · `Git`
+
+**Creative tools:** `Photoshop` · `Illustrator` · `Premiere Pro` · `After Effects` · `Blockbench` · `Blender (learning)`
+
+## Selected software projects
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/regieadhiar/foodrescue">FoodRescue</a></h3>
+      <p><strong>College coursework.</strong> I handled it end to end: research and documentation, analytics, UML, coding, and design. The project is a mobile-first platform for sharing surplus food.</p>
+      <p><code>PHP</code> · <code>Tailwind CSS</code> · <code>JavaScript</code> · <code>MySQL</code></p>
+    </td>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/regieadhiar/restomaju">RestoMaju</a></h3>
+      <p><strong>My role:</strong> front-end and back-end development for a restaurant ordering system with dedicated workflows for admins, waiters, kitchen staff, and cashiers.</p>
+      <p><code>PHP</code> · <code>MariaDB</code> · <code>Tailwind CSS</code><br />
+      <a href="https://resto.egyadya.site">Open the live demo →</a></p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" valign="top">
+      <h3><a href="https://github.com/regieadhiar/prediksi-pembelian-ecommerce">E-Commerce Purchase Prediction</a></h3>
+      <p>A Streamlit app that estimates purchase intent from online-shopping session data.</p>
+      <p><code>Python</code> · <code>Streamlit</code> · <code>Gradient Boosting</code></p>
+    </td>
+  </tr>
+</table>
+
+## Stream design & virtual identity
+
+- **[Sakura StreamKit](https://egyadya.my.id/works/project-1)** — A Japanese-inspired stream overlay with starting, BRB, main, and ending screens, plus chat and customizable panels.
+- **[Outer Space StreamKit](https://egyadya.my.id/works/project-2)** — A cosmic-themed stream overlay concept with coordinated screens, panels, and chat boxes.
+
+## Creative commissions & other projects
+
+- **Past commissions:** Minecraft skins, digital art, and animation.
+- **Other projects:** a link-in-bio website and a Minecraft modpack for a VTuber.
+- **Blender:** I’ve just started exploring it and don’t have client work with it yet.
+
+## GitHub analytics
+
+<p align="center">
+  <img height="170" src="https://github-stats-extended.vercel.app/api?username=regieadhiar&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub statistics" />
+  <img height="170" src="https://github-stats-extended.vercel.app/api/top-langs?username=regieadhiar&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" alt="Most-used languages" />
+</p>
+<p align="center">
+  <img height="170" src="https://streak-stats.demolab.com?user=regieadhiar&theme=tokyonight&hide_border=true" alt="GitHub contribution streak" />
+</p>
+
+<div align="center">
+  <sub>Stay curious. Build useful things. Keep going.</sub>
+  <br />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:38BDF8,50:0F766E,100:0F172A&height=100&section=footer" width="100%" alt="Teal wave footer" />
+</div>
